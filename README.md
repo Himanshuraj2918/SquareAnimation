@@ -9,3 +9,17 @@ Square space is animation website to post your painting here to show people.
 >>> 1. Scroll Trigger
 >>> 2. Gsap Timeline
 >>> 3. Stagger or many other.....
+
+
+ #### In GSAP we have many more function
+ > ###### Scroll
+>>1. ScrollTrigger
+>>2. ScrollSmoother
+>>3. ScrollTo
+>>4. Observer
+> ###### UI
+>>1. Flip
+>>2. SplitText Text
+>>3. Draggable
+>>4. Inertia
+>>5. observer
