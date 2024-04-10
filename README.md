@@ -1,3 +1,5 @@
+![Prototype]("https://github.com/Himanshuraj2918/SquareAnimation/blob/main/Prototype.png")
+
 # SquareAnimation
 Square space is animation website to post your painting here to show people.
 ---
